@@ -30,4 +30,12 @@ padding: 1em 0;
     font-weight: 700;
   }
 
+  @media screen and (min-width: 1024px) {
+    .tópicos__titulo {
+      font-size: 24px;
+    }
   
+    .tópicos__link {
+      font-size: 22px;
+    }
+  }
